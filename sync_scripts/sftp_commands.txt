@@ -1,0 +1,3 @@
+cd /home/ubuntu/gyro
+get -r d2l d2l
+bye

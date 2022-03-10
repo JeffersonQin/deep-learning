@@ -5,3 +5,31 @@
 ## TOC
 
 * pytorch-book: https://github.com/chenyuntc/pytorch-book
+* d2l-zh: https://github.com/d2l-ai/d2l-zh
+
+## sync_scripts
+
+这个文件夹下的可执行文件可以用于同步服务器中的文件。
+
+* `sftp_commands.txt`: sftp batch file
+* `sync_from_server.bat`: sync batch file
+* `sync_from_server.sh`: sync bash script
+
+须在 `sync_scripts` 目录下放置密钥 (`gpu.pem`) 用于验证。具体的同步命令请编辑 `sftp_commands.txt`。
+
+若在脚本在 `wsl` 下运行出错，多半是 `chmod` 的问题。可以添加 (或新建文件) 如下两行到 `/etc/wsl.conf`:
+
+```
+[automount]
+options = "metadata"
+```
+
+然后执行
+
+```
+wsl --shutdown
+```
+
+## Special Thanks
+
+感谢 [@WetABQ](https://github.com/WetABQ) 提供的腾讯云 GPU 服务器。

@@ -7,6 +7,12 @@
 * pytorch-book: https://github.com/chenyuntc/pytorch-book
 * d2l-zh: https://github.com/d2l-ai/d2l-zh
 
+## Notes
+
+* d2l
+  * ch 3.7: [从精度问题看 softmax 与 CrossEntropyLoss](https://gyrojeff.top/index.php/archives/%E4%BB%8E%E7%B2%BE%E5%BA%A6%E9%97%AE%E9%A2%98%E7%9C%8B-softmax-%E4%B8%8E-CrossEntropyLoss/)
+  * ch 4.5, 4.6: [深度学习的正则化方法](https://gyrojeff.top/index.php/archives/deep-learning-regularization-methods/)
+
 ## sync_scripts
 
 这个文件夹下的可执行文件可以用于同步服务器中的文件。

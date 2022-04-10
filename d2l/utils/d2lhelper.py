@@ -18,3 +18,17 @@ def load_data_fashion_mnist(batch_size, dataloader_worker_count, resize=None):
         root="../data", train=False, transform=trans, download=True)
     return (data.DataLoader(mnist_train, batch_size, shuffle=True, num_workers=dataloader_worker_count),
             data.DataLoader(mnist_test, batch_size, shuffle=True, num_workers=dataloader_worker_count))
+
+
+def load_data_iter(features, labels, batch_size):
+    '''
+    return a data iterator with mini-batch feature
+    '''
+    num = len(features)
+    indices = list(range(num))
+    # randomize
+    random.shuffle(indices)
+    for i in range(0, num, batch_size):
+        # use min to prevent crossing border
+        batch_indices = torch.tensor(indices[i : min(i + batch_size, num)])
+        yield features[batch_indices], labels[batch_indices]

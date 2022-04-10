@@ -4,14 +4,17 @@
 
 ## TOC
 
-* pytorch-book: https://github.com/chenyuntc/pytorch-book
-* d2l-zh: https://github.com/d2l-ai/d2l-zh
+* [chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book)
+* [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh)
 
 ## Notes
 
-* d2l
-  * ch 3.7: [从精度问题看 softmax 与 CrossEntropyLoss](https://gyrojeff.top/index.php/archives/%E4%BB%8E%E7%B2%BE%E5%BA%A6%E9%97%AE%E9%A2%98%E7%9C%8B-softmax-%E4%B8%8E-CrossEntropyLoss/)
-  * ch 4.5, 4.6: [深度学习的正则化方法](https://gyrojeff.top/index.php/archives/deep-learning-regularization-methods/)
+* [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh)
+  * ch [3.7](https://zh-v2.d2l.ai/chapter_linear-networks/softmax-regression-concise.html): [从精度问题看 softmax 与 CrossEntropyLoss](https://gyrojeff.top/index.php/archives/%E4%BB%8E%E7%B2%BE%E5%BA%A6%E9%97%AE%E9%A2%98%E7%9C%8B-softmax-%E4%B8%8E-CrossEntropyLoss/)
+  * ch [4.5](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/weight-decay.html), [4.6](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/dropout.html): [深度学习的正则化方法](https://gyrojeff.top/index.php/archives/deep-learning-regularization-methods/)
+  * ch [4.7](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/backprop.html): [计算图的简单例子 - 参数复用](https://gyrojeff.top/index.php/archives/%E8%AE%A1%E7%AE%97%E5%9B%BE%E7%9A%84%E7%AE%80%E5%8D%95%E4%BE%8B%E5%AD%90-%E5%8F%82%E6%95%B0%E5%A4%8D%E7%94%A8/)
+  * ch [4.9](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/environment.html): [深度学习分布偏移理论](https://gyrojeff.top/index.php/archives/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%88%86%E5%B8%83%E5%81%8F%E7%A7%BB%E7%90%86%E8%AE%BA/)
+  * ch [5](https://zh-v2.d2l.ai/chapter_deep-learning-computation/index.html): [PyTorch 模块与参数 Cheatsheet](https://gyrojeff.top/index.php/archives/PyTorch-%E6%A8%A1%E5%9D%97%E4%B8%8E%E5%8F%82%E6%95%B0-Cheatsheet/)
 
 ## sync_scripts
 

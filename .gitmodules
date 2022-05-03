@@ -1,0 +1,3 @@
+[submodule "yolo-v1-pytorch"]
+	path = yolo-v1-pytorch
+	url = https://github.com/JeffersonQin/yolo-v1-pytorch

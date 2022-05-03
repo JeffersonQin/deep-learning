@@ -6,6 +6,8 @@
 
 * [chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book)
 * [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh)
+* tests - 一些测试
+  * pytorch-data-augmentation - 测试 PyTorch 的图像增广
 
 ## Notes
 
@@ -15,6 +17,8 @@
   * ch [4.7](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/backprop.html): [计算图的简单例子 - 参数复用](https://gyrojeff.top/index.php/archives/%E8%AE%A1%E7%AE%97%E5%9B%BE%E7%9A%84%E7%AE%80%E5%8D%95%E4%BE%8B%E5%AD%90-%E5%8F%82%E6%95%B0%E5%A4%8D%E7%94%A8/)
   * ch [4.9](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/environment.html): [深度学习分布偏移理论](https://gyrojeff.top/index.php/archives/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%88%86%E5%B8%83%E5%81%8F%E7%A7%BB%E7%90%86%E8%AE%BA/)
   * ch [5](https://zh-v2.d2l.ai/chapter_deep-learning-computation/index.html): [PyTorch 模块与参数 Cheatsheet](https://gyrojeff.top/index.php/archives/PyTorch-%E6%A8%A1%E5%9D%97%E4%B8%8E%E5%8F%82%E6%95%B0-Cheatsheet/)
+* tests
+  * [PyTorch Data Augmentation 数据增广](https://gyrojeff.top/index.php/archives/PyTorch-Data-Augmentation-%E6%95%B0%E6%8D%AE%E5%A2%9E%E5%B9%BF/)
 
 ## sync_scripts
 

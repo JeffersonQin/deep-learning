@@ -4,3 +4,6 @@
 [submodule "yolo-v2-pytorch"]
 	path = yolo-v2-pytorch
 	url = https://github.com/JeffersonQin/yolo-v2-pytorch
+[submodule "dsp-noise-analysis"]
+	path = dsp-noise-analysis
+	url = https://github.com/JeffersonQin/c919-noise-analysis

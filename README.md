@@ -6,6 +6,7 @@
 
 * [chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book)
 * [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh)
+* [dsp-noise-analysis [PRIVATE]](https://github.com/JeffersonQin/c919-noise-analysis)
 * [yolo-v1-pytorch](https://github.com/JeffersonQin/yolo-v1-pytorch)
 * [yolo-v2-pytorch](https://github.com/JeffersonQin/yolo-v2-pytorch)
 * tests - 一些测试

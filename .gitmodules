@@ -7,3 +7,6 @@
 [submodule "dsp-noise-analysis"]
 	path = dsp-noise-analysis
 	url = https://github.com/JeffersonQin/c919-noise-analysis
+[submodule "OriginumAlchemy"]
+	path = OriginumAlchemy
+	url = https://github.com/JeffersonQin/OriginumAlchemy

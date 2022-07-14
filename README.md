@@ -6,6 +6,7 @@
 
 * [chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book)
 * [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh)
+* [alchemist-helper](https://github.com/JeffersonQin/alchemist-helper)
 * [dsp-noise-analysis [PRIVATE]](https://github.com/JeffersonQin/c919-noise-analysis)
 * [OriginumAlchemy](https://github.com/JeffersonQin/OriginumAlchemy)
 * [yolo-v1-pytorch](https://github.com/JeffersonQin/yolo-v1-pytorch)

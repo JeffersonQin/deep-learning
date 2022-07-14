@@ -10,3 +10,6 @@
 [submodule "OriginumAlchemy"]
 	path = OriginumAlchemy
 	url = https://github.com/JeffersonQin/OriginumAlchemy
+[submodule "alchemist-helper"]
+	path = alchemist-helper
+	url = https://github.com/JeffersonQin/alchemist-helper
